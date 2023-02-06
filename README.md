@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ivansansao
+👋 Hi, Take a look in some projects...
 
-Take a look in some projects... (Wait for loading)
 ![Alt Text](projects-show3.gif)
 
 <!---
