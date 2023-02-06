@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ivansansao
 
-Take a look in some projects...
-![Alt Text](src/assets/p3-sensor.gif)
+Take a look in some projects... (Wait for loading)
+![Alt Text](projects-show3.gif)
 
 <!---
 ivansansao/ivansansao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
