@@ -1,9 +1,11 @@
 👋 Hi, Take a look in some projects...
 
-(Bocha, Dino-AI, Cars-AI)
+Bocha, Dino-AI, Cars-AI
+
 ![Alt Text](projects-show3.gif)
 
 C++ Game Dariu
+
 ![Alt Text](dariu.gif)
 
 <!---
