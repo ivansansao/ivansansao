@@ -1,7 +1,10 @@
 👋 Hi, Take a look in some projects...
 
+(Bocha, Dino-AI, Cars-AI)
 ![Alt Text](projects-show3.gif)
-![Alt Text](Projects.mp4)
+
+C++ Game Dariu
+![Alt Text](dariu.gif)
 
 <!---
 ivansansao/ivansansao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
