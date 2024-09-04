@@ -4,9 +4,13 @@ Bocha, Dino-AI, Cars-AI
 
 ![Alt Text](projects-show3.gif)
 
-C++ Game Dariu
+Game Dariu (c++)
 
 ![Alt Text](dariu.gif)
+
+Skydiver-AI (c++)
+
+![Alt Text](show-skydiver-ai.gif)
 
 <!---
 ivansansao/ivansansao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
